@@ -7,3 +7,8 @@ This is a small project to practice React Router (react-router-dom). This is par
 - Add a new quote by navigating to the 'Add New Quote' tab
 - See a list of all current quotes (stored in firebase DB)
 - Check out details of a quote including any comments that have been added
+- Choose quote list sort method (ascending/descending order based on add date)
+
+## Other information
+
+This site is hosted on [Firebase](https://firebase.google.com/). While their real-time database feature is nice, I would recommend Netlify instead for easier integration with github and custom domain names.
