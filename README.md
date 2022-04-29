@@ -1,6 +1,6 @@
 # Quotes Page
 
-This is a small project to practice React Router (react-router-dom). This is part of a course by [Academind](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+This is a small project to practice React Router (react-router-dom). This is part of a course by [Academind](https://www.udemy.com/course/react-the-complete-guide-incl-redux/). You can check out the website [here](https://react-http-20032.firebaseapp.com/quotes)
 
 ## Features
 
